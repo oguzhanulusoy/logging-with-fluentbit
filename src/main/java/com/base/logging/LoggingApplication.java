@@ -5,20 +5,23 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import com.base.logging.Log;
 
 @SpringBootApplication
 public class LoggingApplication {
 
 	final static String className = "com.base.logging.LoggingApplication";
-	final static Logger logger = Logger.getLogger(className);
+	static Log log = null;
 
 	public static void main(String[] args) {
 		SpringApplication.run(LoggingApplication.class, args);
-		writeLog("tes");
+		log = new Log();
+		writeLog("KOCAMAN HARFLERLE LOG BASIYORUM TAM BURAYA!!!");
 	}
 
 	private static void writeLog(String parameter){
-		logger.log(Level.INFO, "test");
+		log.info(parameter);
+		System.out.println("I wrote a log. Yey!");
 	}
 
 }

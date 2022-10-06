@@ -1,0 +1,30 @@
+2022-10-05 17:19:13,642 +0300 [main] INFO  (Log.java:45) - KOCAMAN HARFLERLE LOG BASIYORUM TAM BURAYA!!!
+2022-10-05 17:19:40,695 +0300 [SpringApplicationShutdownHook] DEBUG (ApplicationAvailabilityBean.java:77) - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2022-10-05 17:19:40,696 +0300 [SpringApplicationShutdownHook] DEBUG (AbstractApplicationContext.java:1049) - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@14c01636, started on Wed Oct 05 17:19:12 TRT 2022
+2022-10-05 17:19:40,696 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:365) - Stopping beans in phase 2147483647
+2022-10-05 17:19:40,699 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:238) - Bean 'webServerGracefulShutdown' completed its stop procedure
+2022-10-05 17:19:40,708 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:365) - Stopping beans in phase 2147483646
+2022-10-05 17:19:40,721 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:238) - Bean 'webServerStartStop' completed its stop procedure
+2022-10-05 17:19:40,721 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:365) - Stopping beans in phase -2147483647
+2022-10-05 17:19:40,721 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:238) - Bean 'springBootLoggingLifecycle' completed its stop procedure
+2022-10-05 17:19:40,722 +0300 [SpringApplicationShutdownHook] DEBUG (ExecutorConfigurationSupport.java:218) - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-10-05 17:20:18,627 +0300 [main] INFO  (Log.java:45) - KOCAMAN HARFLERLE LOG BASIYORUM TAM BURAYA!!!
+2022-10-05 17:20:39,950 +0300 [SpringApplicationShutdownHook] DEBUG (ApplicationAvailabilityBean.java:77) - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2022-10-05 17:20:39,951 +0300 [SpringApplicationShutdownHook] DEBUG (AbstractApplicationContext.java:1049) - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@14c01636, started on Wed Oct 05 17:20:16 TRT 2022
+2022-10-05 17:20:39,952 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:365) - Stopping beans in phase 2147483647
+2022-10-05 17:20:39,953 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:238) - Bean 'webServerGracefulShutdown' completed its stop procedure
+2022-10-05 17:20:39,953 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:365) - Stopping beans in phase 2147483646
+2022-10-05 17:20:39,966 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:238) - Bean 'webServerStartStop' completed its stop procedure
+2022-10-05 17:20:39,966 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:365) - Stopping beans in phase -2147483647
+2022-10-05 17:20:39,967 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:238) - Bean 'springBootLoggingLifecycle' completed its stop procedure
+2022-10-05 17:20:39,967 +0300 [SpringApplicationShutdownHook] DEBUG (ExecutorConfigurationSupport.java:218) - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-10-05 17:25:08,929 +0300 [main] INFO  (Log.java:45) - KOCAMAN HARFLERLE LOG BASIYORUM TAM BURAYA!!!
+2022-10-05 17:32:03,630 +0300 [SpringApplicationShutdownHook] DEBUG (ApplicationAvailabilityBean.java:77) - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2022-10-05 17:32:03,630 +0300 [SpringApplicationShutdownHook] DEBUG (AbstractApplicationContext.java:1049) - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@14c01636, started on Wed Oct 05 17:25:07 TRT 2022
+2022-10-05 17:32:03,632 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:365) - Stopping beans in phase 2147483647
+2022-10-05 17:32:03,633 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:238) - Bean 'webServerGracefulShutdown' completed its stop procedure
+2022-10-05 17:32:03,633 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:365) - Stopping beans in phase 2147483646
+2022-10-05 17:32:03,644 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:238) - Bean 'webServerStartStop' completed its stop procedure
+2022-10-05 17:32:03,645 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:365) - Stopping beans in phase -2147483647
+2022-10-05 17:32:03,645 +0300 [SpringApplicationShutdownHook] DEBUG (DefaultLifecycleProcessor.java:238) - Bean 'springBootLoggingLifecycle' completed its stop procedure
+2022-10-05 17:32:03,645 +0300 [SpringApplicationShutdownHook] DEBUG (ExecutorConfigurationSupport.java:218) - Shutting down ExecutorService 'applicationTaskExecutor'
